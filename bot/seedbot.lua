@@ -227,6 +227,7 @@ function create_config( )
     "arabic_lock",
     "BLOCK",
     "boobs",
+    "hee2",
     "broadcast",
     "calc",
     "Chat",
